@@ -1,2 +1,5 @@
 .idea/csv-plugin.xml
 *.pyc
+.idea/
+.__pycache__/
+.vscode/
