@@ -50,9 +50,9 @@ Given three lists with random integer numbers, find the intersection between the
 
 ## Solution:
 
-We use here the default methods from python's `set` Object: `intersection`
+We use here created a function called  `intersection(l1, l2, l3)`, changing the given lists to sets and using "&", and then returning the intersection list.
 
 ## Run
 ```cmd
-python intersections.py
+python main.py
 ```
