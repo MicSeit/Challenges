@@ -56,3 +56,21 @@ We use here created a function called  `intersection(l1, l2, l3)`, changing the 
 ```cmd
 python main.py
 ```
+
+# Challenge 3
+
+Convert a given number in binary format. 
+
+## Solution:
+
+
+
+
+
+# Challenge 4
+
+Given a list of numbers, sort them (ascending). 
+
+## Solution:
+
+
