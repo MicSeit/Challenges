@@ -50,7 +50,7 @@ Given three lists with random integer numbers, find the intersection between the
 
 ## Solution:
 
-We use here created a function called  `intersection(l1, l2, l3)`, changing the given lists to sets and using "&", and then returning the intersection list.
+We created a function called  `intersection(l1, l2, l3)`, changing the given lists to sets and using "&", and then returning the intersection list.
 
 ## Run
 ```cmd
@@ -73,4 +73,24 @@ Given a list of numbers, sort them (ascending).
 
 ## Solution:
 
+We created a function called  `sort`, which takes a list, and sorts the number inside it.
 
+    ## Run
+    ```cmd
+    python sorting.py
+    ```
+
+
+
+# Challenge 5
+
+Given a list, return multible sublists where each integer is k or less steps away from each other.
+
+## Solution:
+
+We created a function called  `maximum_k_steps`, which takes a list, and creates list with the above characteristic.
+
+    ## Run
+    ```cmd
+    python maximum_k_steps.py
+    ```
